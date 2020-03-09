@@ -3,3 +3,4 @@
 Map Link: 
 
 Screenshot: 
+![](Grihalakshmi_Lab2.png)
