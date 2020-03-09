@@ -1,6 +1,6 @@
 # The Classical Dance Forms of India 
 
-Map Link: 
+Map Link: https://grihalakshmi.github.io/Grihalakshmi_Lab2/Grihalakshmi_Lab2.html
 
 Screenshot: My favourite of the 8 dance forms! 
 ![](Grihalakshmi_Lab2.png)
